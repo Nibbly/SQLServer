@@ -1,0 +1,12 @@
+C:\Users\fabia\Desktop\Projects\SQLServer\SQLServer\bin\Debug\SQLServer.exe.config
+C:\Users\fabia\Desktop\Projects\SQLServer\SQLServer\bin\Debug\SQLServer.exe
+C:\Users\fabia\Desktop\Projects\SQLServer\SQLServer\bin\Debug\SQLServer.pdb
+C:\Users\fabia\Desktop\Projects\SQLServer\SQLServer\bin\Debug\EntityFramework.dll
+C:\Users\fabia\Desktop\Projects\SQLServer\SQLServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabia\Desktop\Projects\SQLServer\SQLServer\bin\Debug\EntityFramework.xml
+C:\Users\fabia\Desktop\Projects\SQLServer\SQLServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabia\Desktop\Projects\SQLServer\SQLServer\obj\Debug\SQLServer.csprojResolveAssemblyReference.cache
+C:\Users\fabia\Desktop\Projects\SQLServer\SQLServer\obj\Debug\SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\Projects\SQLServer\SQLServer\obj\Debug\SQLServer.csproj.CopyComplete
+C:\Users\fabia\Desktop\Projects\SQLServer\SQLServer\obj\Debug\SQLServer.exe
+C:\Users\fabia\Desktop\Projects\SQLServer\SQLServer\obj\Debug\SQLServer.pdb
